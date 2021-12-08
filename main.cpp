@@ -1,7 +1,7 @@
-/** password generator .cpp
-/ this program can generate a password of
-/ any specified length using the valid
-/ characters for most of the websites
+/* password generator .cpp
+/  this program can generate a password of
+/  any specified length using the valid
+/  characters for most of the websites
 */
 
 #include <iostream>
